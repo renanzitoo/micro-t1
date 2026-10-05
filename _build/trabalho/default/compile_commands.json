@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/renan/programs/teste/_build/trabalho/default",
+  "command": "/opt/microchip/xc8/v4.00/bin/xc8-cc -DXPRJ_default=default -D__18F4550__ -D__DEBUG=1 -c -mcpu=18F4550 -mdfp=/home/renan/.mchp_packs/Microchip/PIC18Fxxxx_DFP/1.8.178/xc8 -fno-short-double -fno-short-float -memi=wordwrite -O0 -maddrqual=ignore -mwarn=-3 -msummary=-psect,-class,+mem,-hex,-file -ginhx32 -Wl,--data-init -mno-keep-startup -mno-download -mno-default-config-bits -std=c99 -gdwarf-3 -mstack=compiled:auto:auto:auto -o CMakeFiles/trabalho_default_default_XC8_compile.dir/home/renan/programs/teste/main.c.p1 -c /home/renan/programs/teste/main.c",
+  "file": "/home/renan/programs/teste/main.c",
+  "output": "/home/renan/programs/teste/_build/trabalho/default/CMakeFiles/trabalho_default_default_XC8_compile.dir/home/renan/programs/teste/main.c.p1"
+}
+]

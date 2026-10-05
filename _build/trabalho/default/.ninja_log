@@ -1,0 +1,5 @@
+# ninja log v7
+0	169	1791205666394568578	CMakeFiles/trabalho_default_default_XC8_compile.dir/home/renan/programs/teste/main.c.p1	f1e1fb096116c9bf
+169	946	1791205666563989985	/home/renan/programs/teste/out/trabalho/default.elf	23ccb1bef4574054
+1	81	1791206635424085077	CMakeFiles/trabalho_default_default_XC8_compile.dir/home/renan/programs/teste/main.c.p1	f1e1fb096116c9bf
+81	878	1791206635504084707	/home/renan/programs/teste/out/trabalho/default.elf	23ccb1bef4574054

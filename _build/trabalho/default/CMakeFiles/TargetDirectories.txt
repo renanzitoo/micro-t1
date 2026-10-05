@@ -1,0 +1,4 @@
+/home/renan/programs/teste/_build/trabalho/default/CMakeFiles/trabalho_default_default_XC8_compile.dir
+/home/renan/programs/teste/_build/trabalho/default/CMakeFiles/trabalho_default_image_z991AopA.dir
+/home/renan/programs/teste/_build/trabalho/default/CMakeFiles/edit_cache.dir
+/home/renan/programs/teste/_build/trabalho/default/CMakeFiles/rebuild_cache.dir
